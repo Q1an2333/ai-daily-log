@@ -1,0 +1,16 @@
+# OpenClaw 工具配置
+
+## 默认搜索工具
+search_engine: tavily  # 已优先使用 Tavily AI 搜索
+
+## Tavily 配置
+tavily:
+  api_key: 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
+  # 可用模型: basic (快速), advanced (深度)
+  default_depth: basic
+  max_results: 5
+
+## 备用搜索
+# 如果 Tavily 不可用，可回退到:
+# - web_search (需要 Brave API Key)
+# - web_fetch (直接抓取网页)

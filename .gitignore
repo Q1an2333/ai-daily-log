@@ -1,0 +1,48 @@
+# 日志和临时文件
+*.log
+*.tmp
+*.swp
+
+# 测试文件
+test_*.js
+test_*.txt
+
+# 压缩包
+*.zip
+*.tar
+*.tar.gz
+
+# Office 文件
+*.docx
+*.xlsx
+*.pptx
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 环境变量（不上传）
+.env
+
+# 工作区状态
+.openclaw/workspace-state.json
+
+# 测试文件
+test_*.js
+test_*.txt
+send_*.js
+
+# Python 文件
+generate_returns.py
+llm_router.py
+model_status.json
+risk_simulation.py
+
+# 临时文件
+*.csv
+*.txt
+
+# 新闻汇总
+*news*.md
+*hot_news*
+*summary*

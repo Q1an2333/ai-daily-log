@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "skills": {
+    "skill-vetter": {
+      "version": "1.0.0",
+      "installedAt": 1773747841030
+    },
+    "tavily": {
+      "version": "1.0.0",
+      "installedAt": 1773748680884
+    },
+    "multi-search-engine": {
+      "version": "2.0.1",
+      "installedAt": 1773749744403
+    },
+    "playwright": {
+      "version": "1.0.3",
+      "installedAt": 1773750083003
+    }
+  }
+}
